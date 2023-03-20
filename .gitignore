@@ -4,3 +4,6 @@
 *.cache
 *.hydra
 *.ft
+.DS_Store
+.idea
+__pycache__
