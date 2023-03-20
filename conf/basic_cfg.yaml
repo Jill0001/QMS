@@ -1,0 +1,31 @@
+hydra:
+  run:
+    dir: ./
+
+train:
+    batch_size: 64
+    lr: 5e-5
+    max_epoch: 20
+    eval_epoch: 0
+    seed: 1
+    weight_decay: 1e-3
+
+model:
+    feat_dim: 768
+    contra_temp: 0.01
+    num_heads: 8
+    eval_beams: 4
+    max_len: 40
+    proj_dim_1: 256
+    proj_dim_2: 64
+    cls_threshold: 0.5
+    weight_cls: 0.5
+    neg_slope: 0.1
+
+dataset:
+    mask_th: 0.75
+    exp_dim: 1
+    max_text: 100
+debug: true
+name: "exp_test"
+

@@ -1,0 +1,6 @@
+*.pth
+*.log
+*.log.*
+*.cache
+*.hydra
+*.ft
