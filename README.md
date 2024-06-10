@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ### 2. Dataset
 Visual features can be downloaded [here](https://drive.google.com/file/d/1MnBG2t2fjJzPW3bZ7uP76lPLBLKxExZq/view?usp=sharing).
 
-Textual transcripts and queries can be downloaded [here](https://drive.google.com/file/d/1MnBG2t2fjJzPW3bZ7uP76lPLBLKxExZq/view?usp=sharing)
+Textual transcripts and queries can be downloaded [here](https://drive.google.com/file/d/1yVJTbIaRGEc0ypQOBP0B_4wfmT-c06rp/view?usp=drive_link)
 
 ### 3. Checkpoints
 A trained checkpoint can be downloaded [here](https://drive.google.com/file/d/1QWIMyGwYmvLZ2-u72vpHtsCr0voSnchd/view?usp=share_link)
