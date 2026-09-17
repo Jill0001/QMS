@@ -21,12 +21,14 @@ pip install -r requirements.txt
 ```
 
 ### 2. Dataset
-Visual features can be downloaded [here](https://drive.google.com/file/d/1MnBG2t2fjJzPW3bZ7uP76lPLBLKxExZq/view?usp=sharing).
+Browse the [dataset and interactive preview on Hugging Face](https://huggingface.co/datasets/JillJia/QMS). The preview contains all 60,096 records across the original train (50,096), eval (5,000), and test (5,000) splits.
 
-Textual transcripts and queries can be downloaded [here](https://drive.google.com/file/d/14R6OrzqAixwNH8Jsgnr29Q8ydCNu3eDh/view?usp=sharing)
+Visual features can be downloaded [here](https://huggingface.co/datasets/JillJia/QMS/resolve/main/final_clip.zip?download=true).
+
+Textual transcripts and queries can be downloaded [here](https://huggingface.co/datasets/JillJia/QMS/resolve/main/qms_dataset.ft?download=true)
 
 ### 3. Checkpoints
-A trained checkpoint can be downloaded [here](https://drive.google.com/file/d/1QWIMyGwYmvLZ2-u72vpHtsCr0voSnchd/view?usp=share_link)
+A trained checkpoint can be downloaded [here](https://huggingface.co/datasets/JillJia/QMS/resolve/main/saved_checkpoint.pth?download=true)
 
 ### 4. Training
 You can train the model with the following command:
